@@ -1,0 +1,33 @@
+body{
+    margin: 0em;
+}
+header{
+    color: black;
+    line-height: 48px;
+    text-align: center;
+    padding: 12px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+}
+nav{
+    background-color: #463F3A;
+    padding: 12px;
+}
+ul{
+    list-style: none;
+    font-size: 16px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    padding: 16px;
+    color: #F4F3EE;
+}
+a:hover{
+    color: #E0AFA0;
+}
+.hero-image{
+    background-image: url("https://images.indianexpress.com/2020/03/cat.jpg");
+}
